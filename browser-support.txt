@@ -3,3 +3,4 @@ Firefox
 Safari
 Brave
 Edge
+Lazarus
